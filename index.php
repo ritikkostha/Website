@@ -10,7 +10,7 @@
 </head>
 
 <body>
-
+<!-- Navigation bar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Ritik Kostha</a>
@@ -41,7 +41,7 @@
     </div>
   </nav>
 
-
+<!--  Carousel Bar -->
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
@@ -94,7 +94,7 @@
 
 
  
-
+<!-- Providing Services -->
   <section class="py-5">
     <div class="my-5">
       <h3 class="ser">Our Services</h3>
@@ -198,7 +198,7 @@
     </div>
   </section>
 
-
+<!-- Contact Form -->
   <section class="py-5">
     <div class="mr-5">
       <h3 class="form">Contact Us</h3>
