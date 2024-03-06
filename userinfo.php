@@ -30,6 +30,10 @@ echo $sql;
 
 $result=mysqli_query($conn,$sql);
 
+header("location: index.php");   //it redirect the home page
+
+
+
 echo $result;
 
 ?>
