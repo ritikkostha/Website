@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border-radius: 0.3%;
+    
+}
+
+.carousel-inner{
+    height: 70%;
+    width: 100%;
+}
+
+.about,.ser,.gal,.form{
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    padding: 3rem;
+    /* margin: 5rem; */
+}
+
+.foot{
+    background-color: black;
+    text-align: center;
+}
